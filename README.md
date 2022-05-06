@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TRYDavid89
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning in primary school
 
 <!---
 TRYDavid89/TRYDavid89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
